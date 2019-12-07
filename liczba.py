@@ -6,3 +6,5 @@ class Number:
         self.value = 0
     def ustaw(self, ustaw):
         self.value = ustaw
+
+print("Zaimportowano moduł", __name__)
